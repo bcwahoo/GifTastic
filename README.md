@@ -1,2 +1,0 @@
-# GifTastic
-Homework 06
