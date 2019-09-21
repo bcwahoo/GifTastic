@@ -1,0 +1,23 @@
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+  }
+
+#top-container {
+    width: 80%;
+    margin: 0 10%;
+    padding: 20px;
+    border: 2px solid #dddddd;
+    background-color: #464646;
+}
